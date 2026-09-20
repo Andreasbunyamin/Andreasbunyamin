@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Andreasbunyamin
 - 👀 I’m interested in Data Analyst
-- 🌱 I’m currently learning python, R, SQL
+- 🌱 I’m currently learning python, SQL, Excel
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://www.linkedin.com/in/andreas-natanael-bunyamin/
 
